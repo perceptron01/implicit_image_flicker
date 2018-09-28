@@ -1,0 +1,12 @@
+/20140617実験2のためのスクリプトたち/
+/20140618実験２スクリプト/
+/images/
+/修士：画像データベース/
+
+/EXP_PopoutChromatic_TimeLimit_gaussFix_randomCond_ISIx4.m
+/EXP_quest_gabor_orientation_estimate.m
+/EXP_quest_gabor_orientation_estimate_trainning.m
+/FlickerPhotometry_adjustment.m
+/FlickerPhotometry_adjustment_trainning.m
+/generateBlackGabor.m
+/generateGaussianFixation.m
